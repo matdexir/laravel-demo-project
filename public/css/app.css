@@ -10254,3 +10254,7 @@ textarea.form-control-lg {
   color: #20FC8F;
 }
 
+img#logo {
+  border-radius: 50%;
+}
+
